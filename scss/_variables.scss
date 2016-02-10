@@ -769,3 +769,13 @@ $pre-bg:                      #f7f7f9 !default;
 $pre-color:                   $gray-dark !default;
 $pre-border-color:            #ccc !default;
 $pre-scrollable-max-height:   340px !default;
+
+
+// Responsive Embed Ratios
+
+$responsive-embed-ratios : (
+  (21, 9),
+  (16, 9),
+  (4, 3),
+  (1, 1)
+);
